@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Type:</strong>
+  <%= @doc.worktype %>
+</p>
+
+<p>
+  <strong>Author:</strong>
+  <%= @doc.author %>
+</p>
+
+<p>
+  <strong>Department:</strong>
+  <%= @doc.department %>
+</p>
+
+<%= link_to 'Edit', edit_doc_path(@doc) %> |
+<%= link_to 'Back', docs_path %>
