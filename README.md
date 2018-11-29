@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7a6d22c2840a765cb5bca7d1fe8501e45410ad06
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +26,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<<<<<<< HEAD
+=======
+=======
+# library
+simple library app
+>>>>>>> 74f1af38108cca8470125ea801bcc1936a52afa9
+>>>>>>> 7a6d22c2840a765cb5bca7d1fe8501e45410ad06
